@@ -3,7 +3,7 @@ This repository contains a Python script for generating Discord promo links usin
 
 ### Prerequisites
 - Python 3.11
-- Requests library (`pip install requests`)
+- Requests library (or urn the cpmmand in `Install Dependencies`)
 
 ### Usage
 
